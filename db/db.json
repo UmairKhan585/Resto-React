@@ -1,0 +1,67 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Spice Bazaar",
+      "email": "spicebazaar@test.com",
+      "address": "T-01, Tipu Rd, off MM Alam Road, Lahore",
+      "rating": "4.2"
+    },
+    {
+      "id": "2",
+      "name": "Haveli Restaurant",
+      "email": "havelirestaurant@test.com",
+      "address": "2170-A Food St Fort Rd, opposite Badshahi Mosque",
+      "rating": "4.2"
+    },
+    {
+      "id": "3",
+      "name": "Andaaz Restaurant",
+      "email": "andaazrestaurant@test.com",
+      "address": "2189 A Fort Rd, Shahi Mohallah Walled City of Lahore",
+      "rating": "4.1"
+    },
+    {
+      "id": "4",
+      "name": "Café Aylanto",
+      "email": "caféaylanto@test.com",
+      "address": "12 C1 MM Alam Rd, Block C1 Block C 1 Gulberg III, Lahore",
+      "rating": "4.2"
+    },
+    {
+      "id": "5",
+      "name": "Monal Lahore",
+      "email": "monallahore@test.com",
+      "address": "Plaza Liberty Park and Ride Plaza, Liberty Chowk, Round About, Gulberg III, Lahore",
+      "rating": "4.5"
+    },
+    {
+      "id": "6",
+      "name": "TABAQ Restaurant",
+      "email": "tabaqrestaurant@test.com",
+      "address": "67 MM Alam Rd, Block B1 Block B 1 Gulberg III, Lahore",
+      "rating": "4.0"
+    },
+    {
+      "id": "7",
+      "name": "Fuchsia Kitchen",
+      "email": "fuchsiakitchen@gmail.com",
+      "address": "119 / E 1 Hali Rd, Block E1 Block E 1 Gulberg III, Lahore",
+      "rating": "4.3"
+    },
+    {
+      "id": "8",
+      "name": "Dera Restaurant",
+      "email": "derarestaurant@test.com",
+      "address": "Hafeez Kardar Rd, near Gaddafi Stadium, Block E 2 Gulberg III, Lahore",
+      "rating": "4.0"
+    },
+    {
+      "id": "9",
+      "name": "Arcadian Cafe",
+      "email": "arcadiancafe@test.com",
+      "address": "Sir Syed Rd, Block K Gulberg 2, Lahore",
+      "rating": "4.4"
+    }
+  ]
+}
