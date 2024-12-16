@@ -1,11 +1,7 @@
-Here's the **professional README.md** file for your project in the proper format:
-
-```markdown
 # Restaurant Management System
 
 A **Restaurant Management System** built using **React** that allows users to efficiently manage restaurant data. Users can add, view, update, and delete restaurant details such as name, email, address, and rating. The project uses **JSON Server** as a mock backend to simulate REST API functionality, ensuring a seamless development experience.
 
----
 
 ## Features
 
@@ -15,7 +11,6 @@ A **Restaurant Management System** built using **React** that allows users to ef
 - **Delete Restaurant**: Remove a restaurant from the system.
 - **Responsive Design**: Fully responsive layout using **Bootstrap**.
 
----
 
 ## Tech Stack
 
@@ -24,13 +19,11 @@ A **Restaurant Management System** built using **React** that allows users to ef
 - **Styling**: Bootstrap
 - **Icons**: FontAwesome
 
----
 
 ## Folder Structure
 
 The project structure is as follows:
 
-```
 /my-project
 ├── /public
 │   └── index.html
@@ -48,14 +41,12 @@ The project structure is as follows:
 │   └── db.json
 ├── package.json
 └── README.md
-```
 
 - **`/src`**: Contains all React components and application logic.
 - **`/db`**: Includes the mock database (`db.json`) for the API.
 - **`/public`**: Static files like `index.html` are stored here.
 - **`package.json`**: Manages dependencies and scripts.
 
----
 
 ## Installation
 
